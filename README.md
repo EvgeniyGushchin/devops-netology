@@ -12,3 +12,5 @@
 - служебные файлы терраформа и vscode
 
 ### For Fix
+
+Add some changes and commit via UI tool
